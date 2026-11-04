@@ -4,3 +4,9 @@
 [2026-11-03 15:20:47] [INFO] [PySecT-Main]: PySecT framework initialized successfully.
 [2026-11-03 15:20:47] [DEBUG] [PySecT-Main]: This is a debug message for testing purposes.
 [2026-11-03 15:20:47] [WARNING] [PySecT-Main]: This is a warning test message.
+[2026-11-04 13:39:24] [INFO] [PySecT-Main]: PySecT framework initialized successfully.
+[2026-11-04 13:39:24] [DEBUG] [PySecT-Main]: This is a debug message for testing purposes.
+[2026-11-04 13:39:24] [WARNING] [PySecT-Main]: This is a warning test message.
+[2026-11-04 13:39:24] [WARNING] [PySecT-Validator]: Invalid IP address format provided: '999.999.999.999'
+[2026-11-04 13:39:24] [WARNING] [PySecT-Validator]: Invalid IP address format provided: 'not_an_ip'
+[2026-11-04 13:39:24] [WARNING] [PySecT-Validator]: File path does not exist or is not a valid file: 'nonexistent_file.txt'
