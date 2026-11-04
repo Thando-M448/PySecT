@@ -10,3 +10,19 @@
 [2026-11-04 13:39:24] [WARNING] [PySecT-Validator]: Invalid IP address format provided: '999.999.999.999'
 [2026-11-04 13:39:24] [WARNING] [PySecT-Validator]: Invalid IP address format provided: 'not_an_ip'
 [2026-11-04 13:39:24] [WARNING] [PySecT-Validator]: File path does not exist or is not a valid file: 'nonexistent_file.txt'
+[2026-11-04 14:47:12] [INFO] [PySecT-Main]: PySecT framework initialized successfully.
+[2026-11-04 14:47:12] [DEBUG] [PySecT-Main]: This is a debug message for testing purposes.
+[2026-11-04 14:47:12] [WARNING] [PySecT-Main]: This is a warning test message.
+[2026-11-04 14:47:12] [WARNING] [PySecT-Validator]: Invalid IP address format provided: '999.999.999.999'
+[2026-11-04 14:47:12] [WARNING] [PySecT-Validator]: Invalid IP address format provided: 'not_an_ip'
+[2026-11-04 14:47:12] [WARNING] [PySecT-Validator]: File path does not exist or is not a valid file: 'nonexistent_file.txt'
+[2026-11-04 20:49:33] [INFO] [PySecT-Main]: PySecT framework initialized successfully.
+[2026-11-04 20:49:33] [DEBUG] [PySecT-Main]: This is a debug message for testing purposes.
+[2026-11-04 20:49:33] [WARNING] [PySecT-Main]: This is a warning test message.
+[2026-11-04 20:49:33] [WARNING] [PySecT-Validator]: Invalid IP address format provided: '999.999.999.999'
+[2026-11-04 20:49:33] [WARNING] [PySecT-Validator]: Invalid IP address format provided: 'not_an_ip'
+[2026-11-04 20:49:33] [WARNING] [PySecT-Validator]: File path does not exist or is not a valid file: 'nonexistent_file.txt'
+[2026-11-04 22:01:30] [WARNING] [PySecT-Validator]: File path does not exist or is not a valid file: '.\config\seetings.json'
+[2026-11-04 22:05:25] [WARNING] [PySecT-Config]: Failed to load configuration settings from settings.json: [Errno 2] No such file or directory: 'settings.json'
+[2026-11-04 22:18:56] [WARNING] [PySecT-Config]: Failed to load configuration settings from settings.json: [Errno 2] No such file or directory: 'settings.json'
+[2026-11-04 22:28:05] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json

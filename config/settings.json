@@ -1,0 +1,14 @@
+{
+  "app": {
+  "name": "PySecT",
+  "version": "0.1.0",
+  "reports_dir": "reports"
+},
+"log_analyzer" :{
+  "max_failed_attempts":"5"
+},
+
+"network_scanner":{
+  "default_timeout": "2.0"
+}
+}

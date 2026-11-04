@@ -2,21 +2,20 @@ from core.logger import setup_logger
 from core.validator import validate_ip, validate_file_path
 # Initialize logger for the main application
 logger = setup_logger("PySecT-Main")
+from core.config import load_config
 
-def main():
-    logger.info("PySecT framework initialized successfully.")
-    logger.debug("This is a debug message for testing purposes.")
-    logger.warning("This is a warning test message.")
+def main(ip , file):
 
-    test_ips = ["192.168.1.1", "999.999.999.999", "not_an_ip"]
-    for ip in test_ips:
-        is_valid = validate_ip(ip)
-        print(f"IP: {ip} -> Valid? {is_valid}")
+
+    is_valid = validate_ip(ip)
+    print(f"IP: {ip} -> Valid? {is_valid}")
 
     # Test File Path validation
-    test_files = ["logs/pysect.log", "nonexistent_file.txt"]
-    for fpath in test_files:
-        is_valid = validate_file_path(fpath)
-        print(f"File: {fpath} -> Valid? {is_valid}")
+
+    is_valid = validate_file_path(file)
+    print(f"File: {file} -> Valid? {is_valid}")
+    load_config()
 if __name__ == "__main__":
-    main()
+    ipaddr = input("Enter ip address ").strip()
+    filename = str(input("Enter file path ").strip())
+    main(ipaddr, filename)
