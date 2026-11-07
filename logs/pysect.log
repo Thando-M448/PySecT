@@ -26,3 +26,113 @@
 [2026-11-04 22:05:25] [WARNING] [PySecT-Config]: Failed to load configuration settings from settings.json: [Errno 2] No such file or directory: 'settings.json'
 [2026-11-04 22:18:56] [WARNING] [PySecT-Config]: Failed to load configuration settings from settings.json: [Errno 2] No such file or directory: 'settings.json'
 [2026-11-04 22:28:05] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-05 11:54:33] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-05 11:56:36] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-05 11:56:36] [INFO] [PySecT-Main]: Loaded configurations. Active reports directory: reports 
+[2026-11-05 11:56:43] [INFO] [PySecT-Main]: User Selected Log File analyser
+[2026-11-05 11:57:00] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-05 11:57:00] [INFO] [PySecT-Main]: Loaded configurations. Active reports directory: reports 
+[2026-11-05 11:57:03] [INFO] [PySecT-Main]: User Selected Log File analyser
+[2026-11-05 11:57:16] [INFO] [PySecT-Main]: User selected: Network Security Scanner
+[2026-11-05 11:57:23] [INFO] [PySecT-Main]: User exited PySecT framework safely.
+[2026-11-05 11:58:42] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-05 11:58:42] [INFO] [PySecT-Main]: Loaded configurations. Active reports directory: reports 
+[2026-11-05 11:58:44] [INFO] [PySecT-Main]: User exited PySecT framework safely.
+[2026-11-05 11:58:51] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-05 11:58:51] [INFO] [PySecT-Main]: Loaded configurations. Active reports directory: reports 
+[2026-11-05 11:59:57] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-05 11:59:57] [INFO] [PySecT-Main]: Loaded configurations. Active reports directory: reports 
+[2026-11-05 12:01:45] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-05 12:01:45] [INFO] [PySecT-Main]: Loaded configurations. Active reports directory: reports 
+[2026-11-05 12:05:26] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-05 12:05:26] [INFO] [PySecT-Main]: Loaded configurations. Active reports directory: reports 
+[2026-11-05 12:07:38] [INFO] [PySecT-Main]: User Selected Log File analyser
+[2026-11-05 12:38:07] [INFO] [PySecT-Main]: User exited PySecT framework safely.
+[2026-11-06 22:53:33] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-06 22:53:33] [INFO] [PySecT-Main]: Loaded configurations. Active reports directory: reports 
+[2026-11-07 00:33:04] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-07 00:33:04] [INFO] [PySecT-Main]: Loaded configurations. Active reports directory: reports 
+[2026-11-07 00:33:08] [INFO] [PySecT-Main]: User selected: Secure File Encryption & Decryption
+[2026-11-07 00:34:34] [INFO] [PySecT-Config]: User entered file path: docs/Nomphilo Application letter.pdf
+[2026-11-07 00:34:44] [INFO] [PySecT-Config]: User Entered Passphrase : Thando123
+[2026-11-07 00:39:47] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-07 00:39:47] [INFO] [PySecT-Main]: Loaded configurations. Active reports directory: reports 
+[2026-11-07 00:39:51] [INFO] [PySecT-Main]: User selected: Secure File Encryption & Decryption
+[2026-11-07 00:39:57] [INFO] [PySecT-Config]: User entered file path: docs/Nomphilo Application letter.pdf
+[2026-11-07 00:40:02] [INFO] [PySecT-Config]: User Entered Passphrase : Thando123
+[2026-11-07 00:42:08] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-07 00:42:08] [INFO] [PySecT-Main]: Loaded configurations. Active reports directory: reports 
+[2026-11-07 00:42:10] [INFO] [PySecT-Main]: User selected: Secure File Encryption & Decryption
+[2026-11-07 00:42:14] [INFO] [PySecT-Config]: User entered file path: docs/Nomphilo Application letter.pdf
+[2026-11-07 00:42:19] [INFO] [PySecT-Config]: User Entered Passphrase : Thando123
+[2026-11-07 00:47:29] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-07 00:47:29] [INFO] [PySecT-Main]: Loaded configurations. Active reports directory: reports 
+[2026-11-07 00:47:31] [INFO] [PySecT-Main]: User selected: Secure File Encryption & Decryption
+[2026-11-07 00:48:28] [INFO] [PySecT-Config]: User entered file path: docs/Nomphilo Application letter.pdf
+[2026-11-07 00:48:33] [INFO] [PySecT-Config]: User Entered Passphrase : thando
+[2026-11-07 00:49:03] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-07 00:49:03] [INFO] [PySecT-Main]: Loaded configurations. Active reports directory: reports 
+[2026-11-07 00:49:05] [INFO] [PySecT-Main]: User selected: Secure File Encryption & Decryption
+[2026-11-07 00:49:08] [INFO] [PySecT-Config]: User entered file path: docs/Nomphilo Application letter.pdf
+[2026-11-07 00:49:10] [INFO] [PySecT-Config]: User Entered Passphrase : thna
+[2026-11-07 00:50:49] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-07 00:50:49] [INFO] [PySecT-Main]: Loaded configurations. Active reports directory: reports 
+[2026-11-07 00:50:53] [INFO] [PySecT-Main]: User selected: Secure File Encryption & Decryption
+[2026-11-07 00:51:23] [INFO] [PySecT-Config]: User entered file path: docs/Nomphilo Application letter.pdf
+[2026-11-07 00:51:26] [INFO] [PySecT-Config]: User Entered Passphrase : than
+[2026-11-07 00:58:34] [INFO] [PySecT-Main]: User selected: Secure File Encryption & Decryption
+[2026-11-07 00:58:52] [INFO] [PySecT-Config]: User entered file path: docs/Nomphilo Application letter.pdf
+[2026-11-07 00:59:01] [INFO] [PySecT-Config]: User Entered Passphrase : Thando123
+[2026-11-07 01:00:36] [INFO] [PySecT-Main]: User selected: Secure File Encryption & Decryption
+[2026-11-07 01:00:40] [INFO] [PySecT-Config]: User entered file path: docs/Nomphilo Application letter.pdf
+[2026-11-07 01:00:59] [INFO] [PySecT-Config]: User Entered Passphrase : Thando
+[2026-11-07 01:01:23] [INFO] [PySecT-Main]: User selected: Secure File Encryption & Decryption
+[2026-11-07 01:01:25] [INFO] [PySecT-Config]: User entered file path: docs/Nomphilo Application letter.pdf
+[2026-11-07 01:01:31] [INFO] [PySecT-Config]: User Entered Passphrase : Hyy
+[2026-11-07 01:04:06] [INFO] [PySecT-Main]: User Selected Log File analyser
+[2026-11-07 01:42:50] [INFO] [PySecT-Main]: User selected: Secure File Encryption & Decryption
+[2026-11-07 01:43:24] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-07 01:43:24] [INFO] [PySecT-Main]: Loaded configurations. Active reports directory: reports 
+[2026-11-07 01:43:40] [INFO] [PySecT-Main]: User selected: Secure File Encryption & Decryption
+[2026-11-07 01:44:30] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-07 01:44:30] [INFO] [PySecT-Main]: Loaded configurations. Active reports directory: reports 
+[2026-11-07 01:44:32] [INFO] [PySecT-Main]: User selected: Secure File Encryption & Decryption
+[2026-11-07 01:45:36] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-07 01:45:36] [INFO] [PySecT-Main]: Loaded configurations. Active reports directory: reports 
+[2026-11-07 01:45:40] [INFO] [PySecT-Main]: User selected: Secure File Encryption & Decryption
+[2026-11-07 01:46:19] [INFO] [PySecT-Config]: User entered file path: docs/Nomphilo Application letter.pdf
+[2026-11-07 01:46:26] [INFO] [PySecT-Config]: User Entered Passphrase : Thando
+[2026-11-07 01:47:00] [INFO] [PySecT-Main]: User selected: Secure File Encryption & Decryption
+[2026-11-07 01:59:48] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-07 01:59:48] [INFO] [PySecT-Main]: Loaded configurations. Active reports directory: reports 
+[2026-11-07 01:59:49] [INFO] [PySecT-Main]: User selected: Secure File Encryption & Decryption
+[2026-11-07 10:16:15] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-07 10:16:15] [INFO] [PySecT-Main]: Loaded configurations. Active reports directory: reports 
+[2026-11-07 10:16:42] [INFO] [PySecT-Main]: User selected: Secure File Encryption & Decryption
+[2026-11-07 21:04:49] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-07 21:04:49] [INFO] [PySecT-Main]: Loaded configurations. Active reports directory: reports 
+[2026-11-07 21:04:57] [INFO] [PySecT-Main]: User selected: Secure File Encryption & Decryption
+[2026-11-07 21:05:13] [INFO] [PySecT-Config]: User entered file path: docs/Nomphilo Application letter.pdf
+[2026-11-07 21:05:18] [INFO] [PySecT-Config]: User Entered Passphrase : Thando
+[2026-11-07 21:06:01] [INFO] [PySecT-Main]: User selected: Secure File Encryption & Decryption
+[2026-11-07 21:06:20] [INFO] [PySecT-Config]: User entered file path: docs/Nomphilo Application letter.pdf.enc
+[2026-11-07 21:06:25] [INFO] [PySecT-Config]: User Entered Passphrase : Thando
+[2026-11-07 21:13:32] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-07 21:13:32] [INFO] [PySecT-Main]: Loaded configurations. Active reports directory: reports 
+[2026-11-07 21:13:34] [INFO] [PySecT-Main]: User selected: Secure File Encryption & Decryption
+[2026-11-07 21:13:51] [INFO] [PySecT-Config]: User entered file path: docs/Nomphilo Application letter.pdf.enc
+[2026-11-07 21:13:56] [INFO] [PySecT-Config]: User Entered Passphrase : Thando
+[2026-11-07 21:16:21] [INFO] [PySecT-Main]: User selected: Secure File Encryption & Decryption
+[2026-11-07 21:16:30] [INFO] [PySecT-Config]: User entered file path: import os
+[2026-11-07 21:16:30] [WARNING] [PySecT-Validator]: File path does not exist or is not a valid file: 'import os'
+[2026-11-07 21:16:30] [WARNING] [PySecT-Validator]: File path does not exist or is not a valid file: 'import os'
+[2026-11-07 21:16:30] [WARNING] [PySecT-Validator]: File path does not exist or is not a valid file: 'import os'
+[2026-11-07 21:16:33] [INFO] [PySecT-Main]: User selected: Secure File Encryption & Decryption
+[2026-11-07 21:16:48] [INFO] [PySecT-Config]: User entered file path: nomphilo
+[2026-11-07 21:16:48] [WARNING] [PySecT-Validator]: File path does not exist or is not a valid file: 'nomphilo'
+[2026-11-07 21:16:48] [WARNING] [PySecT-Validator]: File path does not exist or is not a valid file: 'nomphilo'
+[2026-11-07 21:16:48] [WARNING] [PySecT-Validator]: File path does not exist or is not a valid file: 'nomphilo'
+[2026-11-07 21:18:22] [INFO] [PySecT-Main]: User selected: Secure File Encryption & Decryption
+[2026-11-07 21:18:29] [INFO] [PySecT-Config]: User entered file path: nomphilo
+[2026-11-07 21:18:29] [WARNING] [PySecT-Validator]: File path does not exist or is not a valid file: 'nomphilo'
+[2026-11-07 21:18:29] [WARNING] [PySecT-Validator]: File path does not exist or is not a valid file: 'nomphilo'
