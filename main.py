@@ -5,6 +5,7 @@ import pyfiglet
 from colorama import Fore, Style, init
 import os, sys
 from modules.file_encryption.crypto import *
+from modules.log_analyzer.ssh_parser import *
 # Initialize logger for the main application
 logger = setup_logger("PySecT-Main")
 
@@ -52,7 +53,9 @@ def main():
             num = int(choice)
             if num == 1:
                 logger.info(f"User Selected Log File analyser")
-                print(Fore.YELLOW + "[*] Initializing Log analyser .......( Coming..)")
+                print(Fore.YELLOW + "[*] Initializing Log analyser .......")
+                sleep(2)
+                file_validator()
 
             elif num == 2:
                 logger.info("User selected: Network Security Scanner")
