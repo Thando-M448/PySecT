@@ -4,8 +4,7 @@ from os import linesep
 import json
 from datetime import datetime, timedelta
 from time import sleep
-
-#import datetime
+from modules.log_analyzer.windows_parser import *
 from core.logger import setup_logger
 from core.validator import validate_file_path
 #from pygments.styles.dracula import foreground
@@ -19,9 +18,21 @@ def file_validator():
     logger.info(f"File : {file}")
     validate_file_path(file)
     if validate_file_path(file):
+        ssh_pattern= re.compile(r'\b(sshd| Accepted password| Failed Password | Invalid user| authentication failure )\b', re.IGNORECASE)
         web_pattern = re.compile(r'"(GET|POST|PUT|DELETE|HEAD|OPTIONS|PATCH)\s+.*HTTP\/[\d.]+"')
         is_web_log = False
-        with open(file, "r", encoding='utf-8', errors= 'ignore ') as log_file:
+        is_ssh_log = False
+        try:
+            with open(file, 'rb') as f:
+                signature = f.read(8)
+                if signature == b'ElfFile\x00':
+                    print(Fore.MAGENTA+ 'Windows event Log detected, trying to decode file')
+                    windows_parser(file)
+                    return
+        except Exception as e:
+            logger.warning(f"File {file} could not be opened: {e}")
+            return
+        with open(file, "r", encoding="utf-8", errors="ignore") as log_file:
             for _ in range(10):
                 line= log_file.readline()
                 if not line:
@@ -29,12 +40,17 @@ def file_validator():
                 if web_pattern.search(line):
                     is_web_log = True
                     break
+                if ssh_pattern.search(line):
+                    is_ssh_log = True
+
+                    break
+
 
         if is_web_log:
             print(Fore.MAGENTA+ f'[*] Web Server logs detected , Trying ot analyse logs.....')
             sleep(2)
             parser(file)
-        else:
+        if is_ssh_log:
             print(Fore.MAGENTA + f" SHH Logs detected , trying to analyse logs.....")
             sleep(2)
             extractor(file)
@@ -47,7 +63,7 @@ def extractor(file_path):
     with open(file_path, "r") as file:
         file_content = file.readlines()
 
-    pattern = r"Failed password for (?:invalid user )?(\w+) from (\d+\.\d+\.\d+\.\d+)"
+    pattern = r"Failed password for (?:invalid user )?(\S+) from (\d+\.\d+\.\d+\.\d+)"
     failed_attempt = {}
     for line in file_content:
         match = re.search(pattern, line)

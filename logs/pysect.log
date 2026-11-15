@@ -3521,3 +3521,119 @@
 [2026-11-14 11:26:25] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
 [2026-11-14 11:26:25] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
 [2026-11-14 11:27:55] [INFO] [PySecT-Main]: User exited PySecT framework safely.
+[2026-11-14 13:42:45] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-14 13:42:45] [INFO] [PySecT-Main]: Loaded configurations. Active reports directory: reports 
+[2026-11-14 13:42:48] [INFO] [PySecT-Main]: User Selected Log File analyser
+[2026-11-14 13:43:16] [INFO] [PySecT]: File : sample_data/apache_error_attack.log
+[2026-11-14 13:43:18] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-14 13:43:18] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-14 13:43:29] [INFO] [PySecT-Main]: User Selected Log File analyser
+[2026-11-14 13:43:43] [INFO] [PySecT]: File : sample_data/apache_logs.txt
+[2026-11-14 13:43:45] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-14 13:43:46] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-14 13:44:17] [INFO] [PySecT-Main]: User Selected Log File analyser
+[2026-11-14 13:44:29] [INFO] [PySecT]: File : smaple_data/SSH.log
+[2026-11-14 13:44:29] [WARNING] [PySecT-Validator]: File path does not exist or is not a valid file: 'smaple_data/SSH.log'
+[2026-11-14 13:44:29] [WARNING] [PySecT-Validator]: File path does not exist or is not a valid file: 'smaple_data/SSH.log'
+[2026-11-14 13:44:38] [INFO] [PySecT-Main]: User Selected Log File analyser
+[2026-11-14 13:44:53] [INFO] [PySecT]: File : sample_data/SSH.log
+[2026-11-14 13:44:55] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-14 13:44:56] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-14 14:11:19] [INFO] [PySecT-Main]: User exited PySecT framework safely.
+[2026-11-15 18:29:46] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-15 18:29:46] [INFO] [PySecT-Main]: Loaded configurations. Active reports directory: reports 
+[2026-11-15 18:29:47] [INFO] [PySecT-Main]: User Selected Log File analyser
+[2026-11-15 18:29:58] [INFO] [PySecT]: File : sample_data/WinSecLogs.evtx
+[2026-11-15 18:32:42] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-15 18:32:42] [INFO] [PySecT-Main]: Loaded configurations. Active reports directory: reports 
+[2026-11-15 18:32:44] [INFO] [PySecT-Main]: User Selected Log File analyser
+[2026-11-15 18:32:48] [INFO] [PySecT]: File : sample_data/WinSecLogs.evtx
+[2026-11-15 19:58:41] [INFO] [PySecT-Main]: User Selected Log File analyser
+[2026-11-15 19:59:08] [INFO] [PySecT]: File : sample_data/SSH.log
+[2026-11-15 20:02:01] [INFO] [PySecT-Main]: User exited PySecT framework safely.
+[2026-11-15 20:02:04] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-15 20:02:04] [INFO] [PySecT-Main]: Loaded configurations. Active reports directory: reports 
+[2026-11-15 20:02:06] [INFO] [PySecT-Main]: User Selected Log File analyser
+[2026-11-15 20:02:10] [INFO] [PySecT]: File : sample_data/SSH.log
+[2026-11-15 20:03:09] [INFO] [PySecT-Main]: User exited PySecT framework safely.
+[2026-11-15 20:03:11] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-15 20:03:11] [INFO] [PySecT-Main]: Loaded configurations. Active reports directory: reports 
+[2026-11-15 20:03:12] [INFO] [PySecT-Main]: User Selected Log File analyser
+[2026-11-15 20:03:16] [INFO] [PySecT]: File : sample_data/SSH.log
+[2026-11-15 20:06:56] [INFO] [PySecT-Main]: User Selected Log File analyser
+[2026-11-15 20:07:03] [INFO] [PySecT]: File : sample_data/SSH.log
+[2026-11-15 20:08:21] [INFO] [PySecT-Main]: User Selected Log File analyser
+[2026-11-15 20:08:25] [INFO] [PySecT]: File : sample_data/SSH.log
+[2026-11-15 20:09:14] [INFO] [PySecT-Main]: User exited PySecT framework safely.
+[2026-11-15 20:09:30] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-15 20:09:30] [INFO] [PySecT-Main]: Loaded configurations. Active reports directory: reports 
+[2026-11-15 20:09:32] [INFO] [PySecT-Main]: User Selected Log File analyser
+[2026-11-15 20:09:36] [INFO] [PySecT]: File : sample_data/SSH.log
+[2026-11-15 20:09:38] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-15 20:09:39] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-15 20:10:08] [INFO] [PySecT-Main]: User Selected Log File analyser
+[2026-11-15 20:10:16] [INFO] [PySecT]: File : sample_data/nginx_logs.txt
+[2026-11-15 20:10:18] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-15 20:10:19] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-15 20:10:30] [INFO] [PySecT-Main]: User Selected Log File analyser
+[2026-11-15 20:10:39] [INFO] [PySecT]: File : sample_data/apache_logs.txt
+[2026-11-15 20:10:41] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-15 20:10:41] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-15 20:10:47] [INFO] [PySecT-Main]: User Selected Log File analyser
+[2026-11-15 20:10:56] [INFO] [PySecT]: File : sample_data/apache_error_attack.log
+[2026-11-15 20:11:17] [INFO] [PySecT-Main]: User Selected Log File analyser
+[2026-11-15 20:11:28] [INFO] [PySecT]: File : sample_data/WinSecLogs.evtx
+[2026-11-15 20:25:33] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-15 20:25:33] [INFO] [PySecT-Main]: Loaded configurations. Active reports directory: reports 
+[2026-11-15 20:25:35] [INFO] [PySecT-Main]: User Selected Log File analyser
+[2026-11-15 20:25:39] [INFO] [PySecT]: File : sample_data/WinSecLogs.evtx
+[2026-11-15 20:28:56] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-15 20:28:56] [INFO] [PySecT-Main]: Loaded configurations. Active reports directory: reports 
+[2026-11-15 20:28:57] [INFO] [PySecT-Main]: User Selected Log File analyser
+[2026-11-15 20:29:01] [INFO] [PySecT]: File : sample_data/WinSecLogs.evtx
+[2026-11-15 20:29:49] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-15 20:29:49] [INFO] [PySecT-Main]: Loaded configurations. Active reports directory: reports 
+[2026-11-15 20:29:51] [INFO] [PySecT-Main]: User Selected Log File analyser
+[2026-11-15 20:29:55] [INFO] [PySecT]: File : sample_data/WinSecLogs.evtx
+[2026-11-15 20:31:49] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-15 20:31:49] [INFO] [PySecT-Main]: Loaded configurations. Active reports directory: reports 
+[2026-11-15 20:31:50] [INFO] [PySecT-Main]: User Selected Log File analyser
+[2026-11-15 20:31:54] [INFO] [PySecT]: File : sample_data/WinSecLogs.evtx
+[2026-11-15 20:34:41] [INFO] [PySecT-Main]: User Selected Log File analyser
+[2026-11-15 20:34:45] [INFO] [PySecT]: File : sample_data/WinSecLogs.evtx
+[2026-11-15 20:37:57] [INFO] [PySecT-Main]: User Selected Log File analyser
+[2026-11-15 20:38:00] [INFO] [PySecT]: File : sample_data/WinSecLogs.evtx
+[2026-11-15 20:39:15] [INFO] [PySecT-Main]: User exited PySecT framework safely.
+[2026-11-15 20:39:18] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-15 20:39:18] [INFO] [PySecT-Main]: Loaded configurations. Active reports directory: reports 
+[2026-11-15 20:39:18] [INFO] [PySecT-Main]: User Selected Log File analyser
+[2026-11-15 20:39:22] [INFO] [PySecT]: File : sample_data/WinSecLogs.evtx
+[2026-11-15 20:40:58] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-15 20:41:24] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-15 20:42:17] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-15 20:43:06] [INFO] [PySecT-Main]: User exited PySecT framework safely.
+[2026-11-15 20:43:10] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-15 20:43:10] [INFO] [PySecT-Main]: Loaded configurations. Active reports directory: reports 
+[2026-11-15 20:43:12] [INFO] [PySecT-Main]: User Selected Log File analyser
+[2026-11-15 20:43:19] [INFO] [PySecT]: File : sample_data/WinSecLogs.evtx
+[2026-11-15 20:45:01] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-15 20:45:26] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-15 20:46:13] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-15 20:49:22] [INFO] [PySecT-Main]: User Selected Log File analyser
+[2026-11-15 20:49:26] [INFO] [PySecT]: File : sample_data/WinSecLogs.evtx
+[2026-11-15 20:50:52] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-15 20:51:15] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-15 20:51:59] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-15 20:52:53] [INFO] [PySecT-Main]: User exited PySecT framework safely.
+[2026-11-15 20:52:55] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-15 20:52:55] [INFO] [PySecT-Main]: Loaded configurations. Active reports directory: reports 
+[2026-11-15 20:52:56] [INFO] [PySecT-Main]: User Selected Log File analyser
+[2026-11-15 20:53:00] [INFO] [PySecT]: File : sample_data/WinSecLogs.evtx
+[2026-11-15 21:03:28] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-15 21:03:28] [INFO] [PySecT-Main]: Loaded configurations. Active reports directory: reports 
+[2026-11-15 21:03:30] [INFO] [PySecT-Main]: User Selected Log File analyser
+[2026-11-15 21:03:39] [INFO] [PySecT]: File : sample_data/WinSecLogs.evtx
+[2026-11-15 21:05:07] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-15 21:05:33] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-15 21:06:18] [INFO] [PySecT-Config]: Loaded configuration settings from config\settings.json
+[2026-11-15 21:06:34] [INFO] [PySecT-Main]: User exited PySecT framework safely.
